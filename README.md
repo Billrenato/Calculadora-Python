@@ -1,1 +1,1 @@
-Calculadora + interfeca, construida com Python utilizando Tkinter.
+Calculadora + interface, construida com Python utilizando Tkinter.
